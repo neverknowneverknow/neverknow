@@ -1,5 +1,5 @@
 *{
-    padding: 0;
+    padding: 20;
     margin: 0;
 
 }
@@ -46,9 +46,7 @@ body{
     .ifram-style iframe{
         width: 100% !important;
         height: 360px !important;
-        padding:  0 ;
-        margin: 20px ;
-
+        padding:  20 ;
     }
 }
 
@@ -57,7 +55,6 @@ body{
         width: 350px !important;
         height: 210px !important;
         padding:  10px 0 ;
-   margin: 20px ;
     }
 }
 
@@ -66,6 +63,5 @@ body{
         width: 310px !important;
         height: unset !important;
         padding:  5px 0 ;
-   margin: 20px ;
     }
 }
