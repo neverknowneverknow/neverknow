@@ -1,6 +1,6 @@
 *{
-    padding: 50;
-    margin: 50;
+    padding: 0;
+    margin: 0;
 
 }
 body{
@@ -18,8 +18,6 @@ body{
    display: inline-block;
     font-size: 29px;
     padding-left: 15px;
-    padding-top: 20px;
-    padding-bottom: 20px;
    
 }
 .navbar-left ul li a{
@@ -37,7 +35,8 @@ body{
 .ifram-style iframe{
     width: 640px !important;
     height: 410px !important;
-    padding: 15px 0;
+    padding: 15px 10;
+    margin: 30px;
 
 }
 .ifram-style {
