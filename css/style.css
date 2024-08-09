@@ -57,7 +57,7 @@ body{
         width: 350px !important;
         height: 210px !important;
         padding:  10px 0 ;
-
+   margin: 20px ;
     }
 }
 
@@ -66,6 +66,6 @@ body{
         width: 310px !important;
         height: unset !important;
         padding:  5px 0 ;
-
+   margin: 20px ;
     }
 }
