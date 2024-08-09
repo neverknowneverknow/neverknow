@@ -17,7 +17,7 @@ body{
 .navbar-left ul li {
    display: inline-block;
     font-size: 29px;
-    padding-left: 50px;
+    padding-left: 15px;
    
 }
 .navbar-left ul li a{
@@ -47,6 +47,7 @@ body{
         width: 100% !important;
         height: 360px !important;
         padding:  0 ;
+        margin: 20px ;
 
     }
 }
