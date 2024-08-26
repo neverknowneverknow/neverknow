@@ -11,9 +11,7 @@ body{
   margin: 60;
   background-repeat: no-repeat;
   background-attachment: fixed;
-    a {
-  text-decoration: none !important;
-}
+
 }
 .navbar-left ul{
     list-style: none;
