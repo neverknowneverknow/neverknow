@@ -42,28 +42,11 @@ body{
     border-radius: 75px;
 }
 
-@media only screen and (min-width: 426px) and (max-width: 768px) {
-    .ifram-style iframe{
-        width: 100% !important;
-        height: 360px !important;
-        padding:  0 ;
-
-    }
-}
-
-@media only screen and (min-width: 375px) and (max-width: 425.8px) {
-    .ifram-style iframe{
-        width: 350px !important;
-        height: 210px !important;
-        padding:  10px 0 ;
-
-    }
-}
-
-@media only screen and (min-width: 315px) and (max-width:374px) {
+@media only screen and (min-width: 1px) and (max-width:4000px) {
     .ifram-style iframe{
         width: 310px !important;
         height: unset !important;
-        padding:  5px 0 ;
+        padding:  20px 0 ;
+        margin: 20px ;
     }
 }
