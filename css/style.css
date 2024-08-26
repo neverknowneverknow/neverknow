@@ -47,6 +47,7 @@ body{
     .ifram-style iframe{
         width: 310px !important;
         height: unset !important;
+        row-gap: 40px;
         padding:  20px 0 ;
         margin: 20px ;
     }
